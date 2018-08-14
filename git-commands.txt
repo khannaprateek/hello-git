@@ -1,0 +1,12 @@
+Git commands and their functions
+
+	Command						Functions
+1.	git status					show status of the files in the working directory.
+2.	git clone <url>					retrieve a file from the specified URL.
+3.	git init					create a new local repository.
+4.	git config --global user.name "username"	configure the author name to be specified with your commit.
+5.	git config --global user.email your_email_id	configure the email id to be specified with your commit.
+6.	git add -A					commit any file you have created since last commit.
+7.	git commit -m "message"				commit changes with the message you have given.
+8. 	git push -u origin master 			sends changes to the master branch of your repository.
+9. 	git branch					list all the branches in your repo, and also tell you what branch you're currently in.
